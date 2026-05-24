@@ -1,6 +1,6 @@
 # TableauProject---US-Demographics
 
-This project is about Demographic and Economic Data for Tracts and Counties. I created different visuals to analyzed the income and poverty in 2015.
+This project is about Demographic and Economic Data for Tracts and Counties. I created different visuals to analyze the income and poverty in 2015.
 
 
 Insight 1
